@@ -1,0 +1,31 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Purple background -->
+  <rect width="1000" height="1000" fill="#5b1fa8"/>
+  
+  <!-- Logo text group -->
+  <g>
+    <!-- T -->
+    <path d="M 150 250 L 150 350 L 120 250 L 180 250 Z" fill="white"/>
+    <rect x="130" y="350" width="40" height="300" fill="white"/>
+    
+    <!-- e -->
+    <path d="M 230 350 Q 230 280 280 280 Q 320 280 320 330 L 250 330 Q 250 310 280 310 Q 300 310 300 350 L 250 350 Q 250 390 280 390 Q 300 390 300 380 L 320 380 Q 320 420 280 420 Q 230 420 230 350 Z" fill="white"/>
+    
+    <!-- q (with yellow circle accent) -->
+    <circle cx="450" cy="360" r="100" fill="#f5c800"/>
+    <path d="M 450 260 Q 510 260 530 320 L 530 550 L 480 550 Q 430 550 430 500 Q 430 420 450 360 Z" fill="white"/>
+    
+    <!-- p -->
+    <path d="M 620 250 L 620 550 L 570 550 L 570 450 Q 590 420 620 420 Q 660 420 680 450 Q 690 500 680 550 Q 660 600 620 600 Q 580 600 560 570 L 560 250 Z" fill="white"/>
+    
+    <!-- a -->
+    <path d="M 750 380 L 750 550 L 700 550 L 700 500 Q 680 420 740 420 Q 780 420 800 450 L 800 550 L 750 550 Z" fill="white"/>
+    
+    <!-- d -->
+    <path d="M 850 250 L 850 550 L 800 550 Q 750 550 730 500 Q 720 450 730 400 Q 750 350 800 350 Q 850 350 850 380 Z" fill="white"/>
+    
+    <!-- i -->
+    <rect x="900" y="350" width="50" height="200" fill="white"/>
+    <rect x="912.5" y="250" width="25" height="25" fill="white"/>
+  </g>
+</svg>

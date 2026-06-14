@@ -294,4 +294,5 @@ For support, contact support@teqpadi.com or visit the contact page in the applic
 
 **Built with ❤️ for Teqpadi**
 #   T e q p a d i - W e b - A p p  
+ #   T e q p a d i - W e b - A p p  
  

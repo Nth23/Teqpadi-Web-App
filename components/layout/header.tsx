@@ -45,7 +45,7 @@ export function Header() {
           <Link href="/" className="flex items-center gap-2">
             <div className="relative w-10 h-10 rounded-xl overflow-hidden flex-shrink-0">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Teqpadi_logo_3-ldXKiHNQfihFoiihDYzekvvvhYiovU.jpg"
+                src="/images/Teqpadi_logo_3.jpg"
                 alt="Teqpadi"
                 width={40}
                 height={40}
